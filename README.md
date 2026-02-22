@@ -20,8 +20,8 @@ La actividad conciste en realizar una pagina web que permita a los usuarios susc
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: [https://github.com/froilan07botello-afk/Newsletter]  
+Deploy: [https://froilan07botello-afk.github.io/Newsletter/]
 ---
 
 ## 📝 Reflexión
